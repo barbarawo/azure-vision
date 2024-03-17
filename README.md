@@ -14,7 +14,7 @@ Exercício de reconhecimento de texto em imagem com o azure vision.
 
 **3.** Escolha uma imgem do seu computador
 
-<img src="/inputs/noticia_apple_ia.png">
+<img src="/inputs/noticia_apple_ia.PNG">
 
 **4.** Veja o resultado:
 
