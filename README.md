@@ -18,4 +18,4 @@ Exercício de reconhecimento de texto em imagem com o azure vision.
 
 **4.** Veja o resultado:
 
-<img src="/output/resultado_reconhecimento_texto_noticia_apple_ia.png">
+<img src="/output/resultado_reconhecimento_texto_noticia_apple_ia.PNG">
